@@ -3,7 +3,7 @@
 "🚀 Aspiring Full Stack Web Developer weaving digital wonders with interactive UIs and a touch of creativity. Let's code together and turn ideas into captivating online experiences! 💻✨ #WebDev"
  
 ## 🚀 Quick Overview 🚀
-- 👨‍💻 I'm from Lucknow, Uttar Pradesh.
+- 👨‍💻 I'm from Sant Kabir Nagar, Uttar Pradesh.
 - 👨‍💻 Aspiring Full-stack Web Developer
 - 🌐 Web Enthusiast
 - 📚 Constant Learner
