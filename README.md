@@ -65,7 +65,7 @@
 
 <h1 align="left">📊 GitHub Stats</h1>
 
-![Amarjeet5822's Stats](https://github-readme-stats.vercel.app/api?username=Amarjeet5822&theme=vue-dark&show_icons=true&hide_border=true&count_private=true))
+![Amarjeet5822's Stats](https://github-readme-stats.vercel.app/api?username=Amarjeet5822&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Amarjeet5822's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amarjeet5822&theme=vue-dark&hide_border=true)
 ![Amarjeet5822's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarjeet5822&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
