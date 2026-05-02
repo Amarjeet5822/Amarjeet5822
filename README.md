@@ -69,6 +69,11 @@
 ![Amarjeet5822's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amarjeet5822&theme=vue-dark&hide_border=true)
 ![Amarjeet5822's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarjeet5822&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+### ✍️ Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+</p>
+
 ## 📫 Get in Touch
 
 Feel free to connect with me on:
