@@ -1,41 +1,15 @@
 
 ```javascript
 import SoftwareDeveloper from 'India';
-
 class Bio extends SoftwareDeveloper {
   name = 'Amarjeet Gupta';
   title = 'Student & Full Stack Web Developer';
   location = 'Sant Kabir Nagar (Khalilabad), Uttar Pradesh';
   availability = 'Currently Learning & Building Projects';
-
   skills = {
-    frontend: [
-      'HTML',
-      'JavaScript',
-      'ReactJS',
-      'Redux',
-      'VueJS',
-      'Chakra UI',
-      'CSS',
-      'Tailwind CSS',
-      'Bootstrap',
-      'TypeScript'
-    ],
-
-    backend: [
-      'AdonisJS',
-      'Node.js',
-      'Express.js',
-      'MongoDB',
-      'MySQL'
-    ],
-
-    tools: [
-      'Git',
-      'Docker',
-      'AWS',
-      'Postman'
-    ]
+    frontend: [ 'HTML', 'JavaScript', 'ReactJS', 'Redux', 'VueJS', 'Chakra UI', 'CSS', 'Tailwind CSS', 'Bootstrap', 'TypeScript' ],
+    backend: [ 'AdonisJS', 'Node.js', 'Express.js', 'MongoDB', 'MySQL' ],
+    tools: [ 'Git', 'Docker', 'AWS', 'Postman' ]
   };
 }
 export default Bio;
