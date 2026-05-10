@@ -1,3 +1,16 @@
+import SoftwareDeveloper from 'India';
+class Bio extends SoftwareDeveloper {
+  name     = 'Amarjeet Gupta';
+  title    = 'Student' || 'Full Stack Web Developer';
+  location = 'Sant Kabir Nagar ( Khalilabad ), U.P.';
+  availability = "Learning !!";
+}
+class Skills extends SoftwareDeveloper {
+  frontend  = ['HTML', 'JavaScript', 'ReactJS', 'Redux', 'VueJS','Chakra Ui', 'CSS','Tailwind','Bootstrap', 'Typescript' ];
+  backend = ['AdonisJS', 'Node Js', 'Express Js', 'Mongo DB', 'MySql'];
+  tools = ['Git', 'Docker', 'AWS', 'Postman']
+}
+
 <h1>Hi 👋, I'm Amarjeet Gupta</h1>
 
 "🚀 Aspiring Full Stack Web Developer weaving digital wonders with interactive UIs and a touch of creativity. Let's code together and turn ideas into captivating online experiences! 💻✨ #WebDev"
